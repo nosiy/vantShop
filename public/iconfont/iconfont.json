@@ -1,0 +1,37 @@
+{
+  "id": "1887277",
+  "name": "vant项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "689262",
+      "name": "类目 品类 分类 类别",
+      "font_class": "leimupinleifenleileibie",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "1380066",
+      "name": "我的",
+      "font_class": "icon-test",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "12687176",
+      "name": "购物车",
+      "font_class": "icon-",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "13982920",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
