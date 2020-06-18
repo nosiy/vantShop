@@ -1,6 +1,5 @@
 <template>
-   <div id="home">
-
+   <div id="classify">
        2
    </div>
 </template>

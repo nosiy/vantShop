@@ -1,17 +1,16 @@
 <template>
   <div class="footer" >
     <van-tabbar v-model="active" route fixed>
-      <van-tabbar-item to="/main/home" icon="home-o">1</van-tabbar-item>
-      <van-tabbar-item to="/main/classify" icon="search">2</van-tabbar-item>
-      <van-tabbar-item to="/main/cart" icon="friends-o">3</van-tabbar-item>
-      <van-tabbar-item to="/main/user" icon="setting-o">4</van-tabbar-item>
+      <van-tabbar-item to="/home" icon="home-o">1</van-tabbar-item>
+      <van-tabbar-item to="/classify" icon="search">2</van-tabbar-item>
+      <van-tabbar-item to="/cart" icon="friends-o">3</van-tabbar-item>
+      <van-tabbar-item to="/user" icon="setting-o">4</van-tabbar-item>
     </van-tabbar>
     <router-view />
   </div>
 </template>
 
 <script>
-// import { Tabbar, TabbarItem } from 'vant';
 
 export default {
   name: "",
@@ -24,7 +23,6 @@ export default {
     };
   },
   methods:{
-    
     // onChange(index) {
     //   // console.log(index)
     // },
